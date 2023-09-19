@@ -1,6 +1,6 @@
 # Learning Git
 
-
+Hello World - I love Using Git
 
 1. Initialize repository
 2. Create changes to project files
@@ -9,3 +9,4 @@
 5. Commit changes to version history
 6. Review previous changes with git log
 7. Practice
+
