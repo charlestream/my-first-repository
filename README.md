@@ -10,3 +10,4 @@ Hello World - I love Using Git
 6. Review previous changes with git log
 7. Practice
 8. repeat
+9. adding step 9
